@@ -20,7 +20,7 @@ public class Principal {
         Gestor diretor = new Gestor("Thiago", "CEO");
         diretor.adicionarSub(fun3);
         diretor.adicionarSub(ges1);
-        
+
         System.out.println("Detalhes da Estrutura da Empresa");
         diretor.mostrarDet();
     }
