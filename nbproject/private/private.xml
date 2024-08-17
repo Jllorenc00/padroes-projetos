@@ -3,21 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/flyweight/FormaFactory.java</file>
-            <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/facade/ComputadorFacede.java</file>
-            <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/flyweight/Principal.java</file>
-            <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/flyweight/Forma.java</file>
-            <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/decorator/Cafe.java</file>
-            <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/facade/Memoria.java</file>
-            <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/flyweight/Circulo.java</file>
             <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/decorator/Principal.java</file>
-            <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/facade/Principal.java</file>
-            <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/facade/SistemaOperacional.java</file>
-            <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/decorator/CafeDecorator.java</file>
-            <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/facade/Dispositivo.java</file>
-            <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/decorator/Leite.java</file>
-            <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/decorator/CafeSimples.java</file>
-            <file>file:/C:/Users/joao-/Downloads/padroes-projeto/padroes-projeto/src/br/com/joaolorenco/padroes/estruturais/decorator/Acucar.java</file>
         </group>
     </open-files>
 </project-private>
